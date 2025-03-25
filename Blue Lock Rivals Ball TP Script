@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Blaze189/BlueLockRivals/refs/heads/main/BlueLockRivalsBallTP'))()
